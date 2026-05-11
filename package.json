@@ -2,8 +2,9 @@
   "name": "my-portfolio-main",
   "private": true,
   "scripts": {
+    "install:app": "npm --prefix My-Portfolio-main install",
     "dev": "npm --prefix My-Portfolio-main run dev",
-    "build": "npm --prefix My-Portfolio-main run build",
+    "build": "npm run install:app && npm --prefix My-Portfolio-main run build",
     "lint": "npm --prefix My-Portfolio-main run lint",
     "preview": "npm --prefix My-Portfolio-main run preview"
   }

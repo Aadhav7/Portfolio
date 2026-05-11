@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.vercel/
+npm-debug.log*
+.git-backup-nested/
+My-Portfolio-main/.git-backup-nested/
+My-Portfolio-main/dist/
+My-Portfolio-main/node_modules/
