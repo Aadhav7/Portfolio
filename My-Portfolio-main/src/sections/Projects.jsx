@@ -8,7 +8,7 @@ export default function Projects() {
       title: "AI Powered 3D Face Recognition Attendance System",
       desc: "Developed an AI-powered system for accurate 3D face recognition and automated attendance tracking for Online Classes.",
       icon: <ScanFace className="text-[#7B2CBF]" />,
-      link: "https://github.com/Aadhav7/SCAN-IT-LLM-Powered-3D-Face-Scan-System-.git"
+      link: "https://scan-it-llm-powered-3-d-face-scan-s.vercel.app/"
     },
     {
       title: "LLM Powered AI ChatBox For SLIATE Academic Syllabus",
