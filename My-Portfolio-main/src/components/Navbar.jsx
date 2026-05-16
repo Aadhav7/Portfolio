@@ -74,7 +74,7 @@ export default function Navbar() {
         
         {/* LOGO */}
         <h1 className="text-2xl font-black tracking-tighter dark:text-white text-slate-900">
-          Aadhav.<span className="text-[#7B2CBF]">HNDIT</span>
+          Aadhavan <span className="text-[#7B2CBF]">Suriyakumaran</span>
         </h1>
 
         <div className="flex items-center gap-6">
