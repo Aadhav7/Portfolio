@@ -14,7 +14,7 @@ export default function Projects() {
       title: "LLM Powered AI ChatBox For SLIATE Academic Syllabus",
       desc: "Developed a language model-based chatbot for providing accurate information about academic syllabi at SLIATE.",
       icon: <MessageCircleCodeIcon className="text-[#7B2CBF]" />,
-      link: "https://rook-ai-rho.vercel.app/"
+      link: "https://rook-ai-omega.vercel.app/"
     }
   ];
 
