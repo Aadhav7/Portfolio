@@ -5,7 +5,7 @@ import { Mail, Phone, Linkedin, Send, GitBranchPlusIcon, Github } from "lucide-r
 export default function Contact() {
   const contactInfo = [
     { icon: <Github size={20}/>, text: "Aadhav7", link: "https://github.com/Aadhav7" },
-    { icon: <Mail size={20}/>, text: "iamaathavan07@gmail.com", link: "mailto:iamaathavan07@gmail.com" },
+    { icon: <Mail size={20}/>, text: "aadhavsuriya7@gmail.com", link: "mailto:iamaathavan07@gmail.com" },
     { icon: <Phone size={20}/>, text: "+94 75 067 0982", link: "tel:+94750670982" },
     { icon: <Linkedin size={20}/>, text: "Aadhavan Suriyakumaran", link: "https://www.linkedin.com/in/aadhavan-suriyakumaran-66232237a" }
   ];
